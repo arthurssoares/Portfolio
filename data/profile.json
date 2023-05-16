@@ -13,11 +13,11 @@
       },
       {
         "name": "Javascript",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/arthurssoares/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/arthurssoares/Portfolio/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
@@ -35,18 +35,18 @@
   "portfolio": [
     {
       "name": "Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "",
       "github": true
     },
     {
       "name": "Atack on titan - Site de Anime",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/arthurssoares/ataquedostitans",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Suporte Nivel 1",
+      "name": "Suporte Nivel 1 - Tribunal De Contas - MT",
       "period": "2021 - 2023",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com  suporte aos usuários."
     }
